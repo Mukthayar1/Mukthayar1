@@ -51,7 +51,7 @@ technical_background:
     "Intern - VLSI and FPGA Implementation",
   ]
   
-currently_learning: ["Python, Kubernetes and React Native"]
+currently_learning: ["Python, Azure"]
 2023 Goals: ["Become a python developer"]
 hobbies: ["Gaming", "Cinema", "Cricket", "Art"]
 ```
