@@ -37,21 +37,13 @@ company: Linkitsoft
 
 fields_of_interests:
   [
-    "Web Development",
+    "Mobile App Development",
     "Data Science",
     "Machine Learning",
-    "Mobile App Development",
     "Game Development",
   ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
   
-currently_learning: ["Python, Azure"]
+currently_learning: ["Python"]
 2023 Goals: ["Become a python developer"]
 hobbies: ["Gaming", "Cinema", "Cricket", "Art"]
 ```
