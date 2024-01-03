@@ -38,9 +38,6 @@ company: Linkitsoft
 fields_of_interests:
   [
     "Mobile App Development",
-    "Data Science",
-    "Machine Learning",
-    "Game Development",
   ]
   
 currently_learning: ["Python"]
