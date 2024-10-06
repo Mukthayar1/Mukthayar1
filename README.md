@@ -40,9 +40,9 @@ fields_of_interests:
     "Mobile App Development",
   ]
   
-currently_learning: ["Python"]
-2023 Goals: ["Become a python developer"]
-hobbies: ["Gaming", "Cinema", "Cricket", "Art"]
+currently_learning: ["IOS SWIFT MOBILE DEVELOPMENT"]
+2024 & 2025 Goals: ["Become a ios and android developer"]
+hobbies: ["Coding ❤️","Gaming", "Cinema", "Cricket", "Art"]
 ```
   
 ---  
