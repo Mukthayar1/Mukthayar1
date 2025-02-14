@@ -22,7 +22,7 @@ fields_of_interest:
   - "Full Stack Development"
   
 currently_learning: ["iOS Swift Mobile Development"]
-2024_goals: ["Master iOS and Android Development"]
+2025_goals: ["Master iOS and Android Development"]
 hobbies: ["Coding ❤️", "Gaming", "Cinema", "Cricket", "Art"]
 ```
 
