@@ -36,9 +36,9 @@ hobbies: ["Coding ❤️", "Gaming", "Cinema", "Cricket", "Art"]
   <a href="https://medium.com/@mukthayar">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
   </a>
-  <a href="https://twitter.com/Mukthyar11">
+<!--   <a href="https://twitter.com/Mukthyar11">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-  </a>
+  </a> -->
 </p>
 
 ---
